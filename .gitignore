@@ -1,0 +1,8 @@
+# Ignore all generated Maven files
+/target/
+# Ignore any IDE/OS files
+.DS_Store
+# IDE and Editor Files
+.vscode/
+# Maven Configuration
+.mvn/
